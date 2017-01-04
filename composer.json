@@ -34,5 +34,6 @@
         "psr-4": {
             "TCG\\Voyager\\Tests\\": "tests/"
       }
-    }
+    },
+    "minimum-stability": "stable"
 }
